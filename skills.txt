@@ -1,0 +1,8 @@
+skill_1: QA theory
+skill_2: HTTP
+skill_3: Postman
+skill_4: Dev Tools
+skill_5: VPN
+skill_6: ADB
+skill_7: Terminal
+skill_8: SQL
