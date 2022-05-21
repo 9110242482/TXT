@@ -8,4 +8,4 @@ Playback steps: 1. Press the 'Spin' button until the 'Cherry' symbol appears on 
 The actual result: Does not show the winning amounts on the selected lines
 The expected result: Shows all the winnings on the lines, then a message appears about doubling the winnings ('X2')
 Attachments: https://drive.google.com/file/d/1nCOWNHKmUe6AO9uAAnp8P35oecA4P60n/view?usp=sharing
-Note": "The error is also valid for when the 'Drain' symbols appear on all reels
+Note: The error is also valid for when the 'Drain' symbols appear on all reels
