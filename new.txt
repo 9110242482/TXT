@@ -2,4 +2,3 @@ full_name: Maslennikova Marina Alexandrovna
 age: 33
 number_of_pets: 3
 future_desired_salary: 1000
-
