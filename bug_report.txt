@@ -1,11 +1,11 @@
 Id: A22
-Brief description: The winning amounts on the selected lines are not shown in the game field when the 'Cherry' symbols appear on all reels
+Bug Summary: The winning amounts on the selected lines are not shown in the game field when the 'Cherry' symbols appear on all reels
 Type of bug: UI
 Severity: Major
 Environment: Windows 10 Pro /Internet Explorer, Google Chrome, Yandex.Browser; Android/ Internet Explorer, Google Chrome, Yandex.Browser; IOS/ Google Chrome, Safari
 Prerequisites: 1. The main page of the game is open; 2. Lines – 2 is selected
-Playback steps: 1. Press the 'Spin' button until the 'Cherry' symbol appears on all reels
-The actual result: Does not show the winning amounts on the selected lines
-The expected result: Shows all the winnings on the lines, then a message appears about doubling the winnings ('X2')
+Steps to reproduce: 1. Press the 'Spin' button until the 'Cherry' symbol appears on all reels
+Actual result: Does not show the winning amounts on the selected lines
+Expected result: Shows all the winnings on the lines, then a message appears about doubling the winnings ('X2')
 Attachments: https://drive.google.com/file/d/1nCOWNHKmUe6AO9uAAnp8P35oecA4P60n/view?usp=sharing
 Note: The error is also valid for when the 'Drain' symbols appear on all reels
